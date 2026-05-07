@@ -2,6 +2,10 @@
 
 A React + Vite ecommerce project with Firebase authentication.
 
+# Eshop (Link for project)
+
+[Live Demo](https://react-js-ecommerce-snowy.vercel.app/)
+
 ## Setup
 
 Install dependencies:
