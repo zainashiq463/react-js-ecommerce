@@ -1,0 +1,79 @@
+react-dom_client.js?v=a5eb78f5:14337 Download the React DevTools for a better development experience: https://react.dev/link/react-devtools
+ProductsDisplay.jsx:18 Uncaught TypeError: Cannot read properties of undefined (reading 'length')
+    at ProductsDisplay (ProductsDisplay.jsx:18:74)
+    at Object.react_stack_bottom_frame (react-dom_client.js?v=a5eb78f5:12867:12)
+    at renderWithHooks (react-dom_client.js?v=a5eb78f5:4212:19)
+    at updateFunctionComponent (react-dom_client.js?v=a5eb78f5:5568:16)
+    at beginWork (react-dom_client.js?v=a5eb78f5:6139:20)
+    at runWithFiberInDEV (react-dom_client.js?v=a5eb78f5:850:66)
+    at performUnitOfWork (react-dom_client.js?v=a5eb78f5:8428:92)
+    at workLoopSync (react-dom_client.js?v=a5eb78f5:8324:37)
+    at renderRootSync (react-dom_client.js?v=a5eb78f5:8308:6)
+    at performWorkOnRoot (react-dom_client.js?v=a5eb78f5:7993:27)
+(anonymous) @ ProductsDisplay.jsx:18
+react_stack_bottom_frame @ react-dom_client.js?v=a5eb78f5:12867
+renderWithHooks @ react-dom_client.js?v=a5eb78f5:4212
+updateFunctionComponent @ react-dom_client.js?v=a5eb78f5:5568
+beginWork @ react-dom_client.js?v=a5eb78f5:6139
+runWithFiberInDEV @ react-dom_client.js?v=a5eb78f5:850
+performUnitOfWork @ react-dom_client.js?v=a5eb78f5:8428
+workLoopSync @ react-dom_client.js?v=a5eb78f5:8324
+renderRootSync @ react-dom_client.js?v=a5eb78f5:8308
+performWorkOnRoot @ react-dom_client.js?v=a5eb78f5:7993
+performWorkOnRootViaSchedulerTask @ react-dom_client.js?v=a5eb78f5:9058
+performWorkUntilDeadline @ react-dom_client.js?v=a5eb78f5:35
+<ProductsDisplay>
+exports.jsxDEV @ react_jsx-dev-runtime.js?v=a5eb78f5:192
+(anonymous) @ App.jsx:14
+react_stack_bottom_frame @ react-dom_client.js?v=a5eb78f5:12867
+renderWithHooksAgain @ react-dom_client.js?v=a5eb78f5:4267
+renderWithHooks @ react-dom_client.js?v=a5eb78f5:4218
+updateFunctionComponent @ react-dom_client.js?v=a5eb78f5:5568
+beginWork @ react-dom_client.js?v=a5eb78f5:6139
+runWithFiberInDEV @ react-dom_client.js?v=a5eb78f5:850
+performUnitOfWork @ react-dom_client.js?v=a5eb78f5:8428
+workLoopSync @ react-dom_client.js?v=a5eb78f5:8324
+renderRootSync @ react-dom_client.js?v=a5eb78f5:8308
+performWorkOnRoot @ react-dom_client.js?v=a5eb78f5:7993
+performWorkOnRootViaSchedulerTask @ react-dom_client.js?v=a5eb78f5:9058
+performWorkUntilDeadline @ react-dom_client.js?v=a5eb78f5:35
+<App>
+exports.jsxDEV @ react_jsx-dev-runtime.js?v=a5eb78f5:192
+(anonymous) @ main.jsx:8
+App.jsx:14 An error occurred in the <ProductsDisplay> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+defaultOnUncaughtError @ react-dom_client.js?v=a5eb78f5:5257
+logUncaughtError @ react-dom_client.js?v=a5eb78f5:5286
+runWithFiberInDEV @ react-dom_client.js?v=a5eb78f5:850
+lane.callback @ react-dom_client.js?v=a5eb78f5:5314
+callCallback @ react-dom_client.js?v=a5eb78f5:4094
+commitCallbacks @ react-dom_client.js?v=a5eb78f5:4102
+runWithFiberInDEV @ react-dom_client.js?v=a5eb78f5:850
+commitLayoutEffectOnFiber @ react-dom_client.js?v=a5eb78f5:6985
+flushLayoutEffects @ react-dom_client.js?v=a5eb78f5:8670
+commitRoot @ react-dom_client.js?v=a5eb78f5:8583
+commitRootWhenReady @ react-dom_client.js?v=a5eb78f5:8078
+performWorkOnRoot @ react-dom_client.js?v=a5eb78f5:8050
+performWorkOnRootViaSchedulerTask @ react-dom_client.js?v=a5eb78f5:9058
+performWorkUntilDeadline @ react-dom_client.js?v=a5eb78f5:35
+<ProductsDisplay>
+exports.jsxDEV @ react_jsx-dev-runtime.js?v=a5eb78f5:192
+(anonymous) @ App.jsx:14
+react_stack_bottom_frame @ react-dom_client.js?v=a5eb78f5:12867
+renderWithHooksAgain @ react-dom_client.js?v=a5eb78f5:4267
+renderWithHooks @ react-dom_client.js?v=a5eb78f5:4218
+updateFunctionComponent @ react-dom_client.js?v=a5eb78f5:5568
+beginWork @ react-dom_client.js?v=a5eb78f5:6139
+runWithFiberInDEV @ react-dom_client.js?v=a5eb78f5:850
+performUnitOfWork @ react-dom_client.js?v=a5eb78f5:8428
+workLoopSync @ react-dom_client.js?v=a5eb78f5:8324
+renderRootSync @ react-dom_client.js?v=a5eb78f5:8308
+performWorkOnRoot @ react-dom_client.js?v=a5eb78f5:7993
+performWorkOnRootViaSchedulerTask @ react-dom_client.js?v=a5eb78f5:9058
+performWorkUntilDeadline @ react-dom_client.js?v=a5eb78f5:35
+<App>
+exports.jsxDEV @ react_jsx-dev-runtime.js?v=a5eb78f5:192
+(anonymous) @ main.jsx:8
